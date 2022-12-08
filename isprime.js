@@ -7,7 +7,7 @@ let c=0;
     if (num%i===0)
        c=c+1;
        }
-    if(c=2){
+    if(c==2){
       console.log("Yes it is a prime")
     }else{
       console.log("No it is not a prime")
